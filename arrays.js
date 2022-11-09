@@ -14,5 +14,5 @@ console.log(tickets);
 online.push();
 console.log(online);
 
-
+// Index positions start with the first element designated as position zero. e.g. Bucifelous is in index position 1
 
